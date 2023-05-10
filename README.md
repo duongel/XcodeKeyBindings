@@ -19,4 +19,5 @@ Replaces the key bindings for the following commands with more intuitive ones
 2. `./copyKeyBindings.sh`
 
 # Note
-Your user password is required to write to `/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/`
+- Your user password is required to write to `/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/`
+- Replaces all current key bindings!
