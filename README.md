@@ -22,5 +22,5 @@ Replaces the key bindings for the following commands with more intuitive ones
 - Your user password is required to write to `/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/`
 - Warning: this replaces all current key bindings! 
 
-# Outlook
+# WIP
 - Append new commands to existing ones
