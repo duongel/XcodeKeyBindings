@@ -20,4 +20,7 @@ Replaces the key bindings for the following commands with more intuitive ones
 
 # Note
 - Your user password is required to write to `/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/`
-- Replaces all current key bindings!
+- Warning: this replaces all current key bindings! 
+
+# Outlook
+- Append new commands to existing ones
